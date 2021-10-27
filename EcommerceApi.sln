@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{0F82307E-6D27-4E50-9724-3DA79804A2C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{A3D7AB46-3780-415E-B1C3-76A926E08769}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{C6496F84-0EE8-4696-9910-D7701B6798E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F82307E-6D27-4E50-9724-3DA79804A2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F82307E-6D27-4E50-9724-3DA79804A2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F82307E-6D27-4E50-9724-3DA79804A2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F82307E-6D27-4E50-9724-3DA79804A2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D7AB46-3780-415E-B1C3-76A926E08769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D7AB46-3780-415E-B1C3-76A926E08769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D7AB46-3780-415E-B1C3-76A926E08769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D7AB46-3780-415E-B1C3-76A926E08769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6496F84-0EE8-4696-9910-D7701B6798E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6496F84-0EE8-4696-9910-D7701B6798E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6496F84-0EE8-4696-9910-D7701B6798E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6496F84-0EE8-4696-9910-D7701B6798E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {600A8ADB-EC68-4A9C-9F39-FAB487A58F0C}
+	EndGlobalSection
+EndGlobal
